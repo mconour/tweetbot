@@ -1,2 +1,2 @@
 # twitter-bot
-Twitter bot using Python
+Twitter bot using Python that gets you followers
