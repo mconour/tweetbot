@@ -1,2 +1,5 @@
-# twitter-bot
-Twitter bot using Python that gets you followers
+# TweetBot
+
+Languages: Python
+Other: GeckoDriver
+
