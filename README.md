@@ -1,5 +1,5 @@
 # TweetBot
 
 Languages: Python
-Other: GeckoDriver
 
+Other: GeckoDriver
